@@ -16,8 +16,8 @@ Welcome to the backend repository of SAXSRefHub, a comprehensive web application
 The backend of XRef Hub is built using modern web technologies to provide robust and efficient data management. It handles user authentication, data storage, API endpoints, and integrates with the frontend to deliver a seamless experience for users accessing XPCS, SAXS, and BioSAXS datasets.
 
 # Tech Stack
-Programming Language: Python
-Database: MySQL and MongoDB
-Authentication: JWT (or OAuth, etc.)
-Containerization: Docker
-Version Control: Git
+- Programming Language: Python
+- Database: MySQL and MongoDB
+- Authentication: JWT (or OAuth, etc.)
+- Containerization: Docker
+- Version Control: Git
